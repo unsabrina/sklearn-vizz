@@ -26,7 +26,7 @@ This is a web app demo using python libraries such as Streamlit, Sklearn etc
 
 st.sidebar.write ("For more info, please contact:")
 
-st.sidebar.write("<a href='https://www.linkedin.com/in/ungku-nur-sabrina-ungku-abdul-nassir-55802318/'>Ungku Nur Sabrina Binti Ungku Abdul Nassir </a>", unsafe_allow_html=True)
+st.sidebar.write("<a href='https://www.linkedin.com/in/yong-poh-yu/'>Dr. Yong Poh Yu </a>", unsafe_allow_html=True)
 
 
 choice = st.sidebar.radio(
@@ -232,15 +232,3 @@ hide_streamlit_style = """
             </style>
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
